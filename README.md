@@ -33,7 +33,7 @@ This will display the help message including available options.
 By default, the backend also serves the built frontend.
 
 ### Endpoint documentation
-[Available](https://github.com/ItsMeSudo/es2025-s09-r1-151/blob/main/backend/README.md) in the backend folder
+[Available](https://github.com/ItsMeSudo/Prototype-Freight-Container-Management/blob/main/backend/README.md) in the backend folder
 
 ## Frontend
 
@@ -84,8 +84,8 @@ Prebuilt versions of the backend for Linux and Windows, as well as the frontend,
 
 Alternatively, if you prefer not to build from source, you can download fully built versions of PFC:
 
-- [Windows Release](https://github.com/ItsMeSudo/es2025-s09-r1-151/releases/download/v1.0.0/windows.rar)
-- [Linux Release](https://github.com/ItsMeSudo/es2025-s09-r1-151/releases/download/v1.0.0/linux.rar)
+- [Windows Release](https://github.com/ItsMeSudo/Prototype-Freight-Container-Management/releases/download/v1.0.0/windows.rar)
+- [Linux Release](https://github.com/Prototype-Freight-Container-Management/releases/download/v1.0.0/linux.rar)
 
 Simply extract the downloaded file and run the appropriate executable as mentioned above.
 
