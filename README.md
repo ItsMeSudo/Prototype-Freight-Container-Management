@@ -85,7 +85,7 @@ Prebuilt versions of the backend for Linux and Windows, as well as the frontend,
 Alternatively, if you prefer not to build from source, you can download fully built versions of PFC:
 
 - [Windows Release](https://github.com/ItsMeSudo/Prototype-Freight-Container-Management/releases/download/v1.0.0/windows.rar)
-- [Linux Release](https://github.com/Prototype-Freight-Container-Management/releases/download/v1.0.0/linux.rar)
+- [Linux Release](https://github.com/ItsMeSudo/Prototype-Freight-Container-Management/releases/download/v1.0.0/linux.rar)
 
 Simply extract the downloaded file and run the appropriate executable as mentioned above.
 
